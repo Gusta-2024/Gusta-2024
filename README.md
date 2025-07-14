@@ -1,9 +1,6 @@
-- 👋 Hi, I'm @Gusta-2024
-- 👀 I'm interested in technology and software development
-- 🌱 I'm currently learning software engineering
-- 💞️ I'm looking to collaborate on software
-- 📫 How to contact me @gmail
-- 😄 Pronouns: gusta
+- 👋 Hi, I'm Gustavo.
+- 💻 I'm enthusiastic about technology and software development.
+- 📚 I'm currently pursuing a Bachelor's degree in Software Engineering. 3/7 🎓
 - ⚡ Fun fact: Anime and body care fan
 
 <!---
