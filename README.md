@@ -1,9 +1,8 @@
-- 👋 Hi, I'm Gustavo.
-- 💻 I'm enthusiastic about technology and software development.
-- 📚 I'm currently pursuing a Bachelor's degree in Software Engineering. 3/7 🎓
-- ⚡ Fun fact: Anime and body care fan
-
-<!---
-Gusta-2024/Gusta-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Sobre mim
+🎓 Graduando em Engenharia de Software (metade do curso concluída!).
+⚙️ Fascinado pela integração entre o mundo físico e o digital através de sistemas embarcados.
+🏗️ Tenho facilidade com a parte estrutural e de planejamento de projetos, trazendo uma visão analítica para todo o ciclo de vida do software.
+💻 Habilidades e Conhecimentos
+- Engenharia e Processos: Elicitação de requisitos, prototipação e gerenciamento de projetos.
+- Bancos de Dados: Conhecimento sólido em modelagem e consultas com MySQL.
+- Desenvolvimento: Estudando C# atualmente e explorando arquiteturas de hardware.
