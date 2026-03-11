@@ -9,8 +9,8 @@
 💻 Habilidades e Conhecimentos
 
 - Engenharia e Processos: Elicitação de requisitos, prototipação e gerenciamento de projetos.
-- 
+  
 - Bancos de Dados: Conhecimento sólido em modelagem e consultas com MySQL.
-- 
+  
 - Desenvolvimento: Estudando C# atualmente e explorando arquiteturas de hardware.
-- 
+  
